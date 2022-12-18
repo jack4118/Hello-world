@@ -1,4 +1,4 @@
 # Hello-world
 First trying
 
-Editor: Chee Lam
+Author: Chee Lam
